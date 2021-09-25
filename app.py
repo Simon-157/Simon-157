@@ -8,7 +8,7 @@ def index():
 
 
 
-
+# hello
 @app.route("/submit", methods=['POST'])
 def submit():
     simple_interest=''
