@@ -26,7 +26,7 @@
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">  </p>
 
-[![Simon's GitHub activity graph](https://activity-graph.herokuapp.com/graph?username=Simon-157&&theme=xcode)](https://github.com/Simon-157)
+[![Simon's GitHub activity graph](https://activity-graph.herokuapp.com/graph?username=Jnr-157&&theme=xcode)](https://github.com/Simon-157)
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=Simon-157&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="Simon-157" /></p>
 
