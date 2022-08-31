@@ -12,7 +12,7 @@
 
 - 🌱 I’m currently learning **React and NLP**
 
-- 💬 Ask me about **ML , MERN, FLASK**
+- 💬 Ask me about **ML , MERN, FLASK, FIGMA**
 
 - 📫 How to reach me **boatengsimonjnr157@gmail.com**
 
