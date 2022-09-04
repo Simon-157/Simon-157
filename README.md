@@ -1,4 +1,4 @@
-[![MasterHead](https://www.ipmctraining.com/assets/images/courses/systemsengin.gif)](https://Simon-157.io)
+
 <h1 align="center">Hi 👋, I'm Simon Boateng</h1>
 <h3 align="center">A passionate Software developer from Ghana</h3>
 <img align="right" alt="Coding" width="400" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTntbVvAfU7JG8uLo-poU18NdzbQ3a94jpEHA&usqp=CAU">
