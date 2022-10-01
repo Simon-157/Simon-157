@@ -8,7 +8,7 @@
 
 <p align="left"> <a href="https://twitter.com/Pascal" target="blank"><img src="https://img.shields.io/twitter/follow/simon?logo=twitter&style=for-the-badge" alt="simon" /></a> </p>
 
-- 🔭 I’m currently working on **E-CARE-V1 APP**
+- 🔭 I’m currently working on **DevsColab APP**
 
 - 🌱 I’m currently learning **React and NLP**
 
@@ -16,7 +16,7 @@
 
 - 📫 How to reach me **boatengsimonjnr157@gmail.com**
 
-- ⚡ Fun fact **I am football fun that like arguing but will never argue with a Messi fun. Guess what I am Ronaldo's fun**
+- ⚡ Fun fact **I am football fun that like arguing never argues[ with a Messi fun. Guess what I am Ronaldo's fun**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
