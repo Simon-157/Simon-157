@@ -16,7 +16,7 @@
 
 - 📫 How to reach me **boatengsimonjnr157@gmail.com**
 
-- ⚡ Fun fact **I am football fun that like arguing never argues with a Messi fun. Guess what I am Ronaldo's fun**
+- ⚡ Fun fact **I am football fun that likes arguing but never argues with a Messi fun. Guess what I am Ronaldo's fun**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
