@@ -23,7 +23,7 @@
 
 </p>
 
-<h3 align="left">LANGUAGES AND TOOLS:</h3>
+> ## LANGUAGES AND TOOLS
 
 <img src="https://skillicons.dev/icons?i=python"/>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 <img src="https://skillicons.dev/icons?i=js"/>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
