@@ -6,7 +6,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=simon&label=Profile%20views&color=0e75b6&style=flat" alt="simon" /> </p>
 
-<p align="left"> <a href="https://twitter.com/Pascal" target="blank"><img src="https://img.shields.io/twitter/follow/simon?logo=twitter&style=for-the-badge" alt="simon" /></a> </p>
+<p align="left"> <a href="https://twitter.com/SimonBo26165668" target="blank"><img src="https://img.shields.io/twitter/follow/simon?logo=twitter&style=for-the-badge" alt="simon" /></a> </p>
 
 - 🔭 I’m currently working on **DevsColab API** ⚡⚡
 
