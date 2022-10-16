@@ -23,7 +23,7 @@
 
 </p>
 
->>  ## LANGUAGES AND TOOLS
+>>  ## PROGRAMMING LANGUAGES
 
 <img src="https://skillicons.dev/icons?i=python"/>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 <img src="https://skillicons.dev/icons?i=js"/>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
