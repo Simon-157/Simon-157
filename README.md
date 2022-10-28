@@ -10,7 +10,7 @@
 
 - 🔭 I’m currently working on **DevsColab API** ⚡⚡
 
-- 🌱 I’m currently learning **React and NLP** 
+- 🌱 I’m currently learning **React Native and NLP** 
 
 - 💬 Ask me about **ML , MERN, FLASK, FIGMA**
 
