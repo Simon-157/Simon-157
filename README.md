@@ -8,11 +8,11 @@
 
 <p align="left"> <a href="https://twitter.com/SimonBo26165668" target="blank"><img src="https://img.shields.io/twitter/follow/simon?logo=twitter&style=for-the-badge" alt="simon" /></a> </p>
 
-- 🔭 I’m currently working on **DevsColab API** ⚡⚡
+- 🔭 I’m currently working on **Voteme API** and **DevsColab API** ⚡⚡
 
-- 🌱 I’m currently learning **React Native and NLP** 
+- 🌱 I’m currently learning **React Native and Devops** 
 
-- 💬 Ask me about **ML , MERN, FLASK, FIGMA**
+- 💬 Ask me about **ML , MERN, PERN, FLASK, FIGMA**
 
 - 📫 How to reach me **boatengsimonjnr157@gmail.com**
 
