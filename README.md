@@ -10,7 +10,7 @@
 
 - 🔭 I’m currently working on **Voteme API** and **DevsColab API** ⚡
 
-- 🌱 I’m currently learning **React Native and Devops** 
+- 🌱 I’m currently polishing ** Realtime technologies and Devops** 
 
 - 💬 Ask me about **ML , MERN, PERN, FLASK, FIGMA**
 
