@@ -10,7 +10,7 @@
 
 - 🔭 I’m currently working on **Voteme API** and **DevsColab API** ⚡
 
-- 🌱 I’m currently polishing **Realtime technologies(example Redis sub/pub) 
+- 🌱 I’m currently polishing **Realtime technologies(Sockets, Redis sub/pub) 
 in microservice architecture and Devops** 
 
 - 💬 Ask me about **ML , MERN, PERN, FLASK, FIGMA**
