@@ -18,7 +18,7 @@
 
 - 📫 How to reach me **boatengsimonjnr157@gmail.com**
 
-- ⚡ Fun fact ** Builds with passion **
+- ⚡ Fun fact ***Builds with passion***
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
